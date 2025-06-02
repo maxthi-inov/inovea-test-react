@@ -1,0 +1,10 @@
+:root {
+  --background-color: #ededed;
+  --foreground-color: #050315;
+  --foreground-muted-color: #575759;
+  ---primary-color: #ffece4;
+  --card-background-color: #fcfdff;
+}
+body {
+  background: var(--background-color);
+}
