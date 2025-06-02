@@ -36,6 +36,8 @@ Développer une application React affichant une liste de modèles 3D en utilisan
 
 ## 🚀 Installation et lancement
 
+1. Dupliquez ".env.exemple" et renommez la copie en ".env" pour avoir accès à l'URL de l'API grâce à "process.env.API_URL"
+
 ```bash
 # Installation des dépendances
 npm install
